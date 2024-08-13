@@ -47,7 +47,7 @@ go version
 cd $HOME && rm -rf wardenprotocol
 git clone https://github.com/warden-protocol/wardenprotocol
 cd  wardenprotocol
-git checkout v0.3.0
+git checkout v0.3.1
 make install-wardend
 ```
 
@@ -154,7 +154,7 @@ wardend tx staking create-validator \
 No update
 
 Current network:buenavista-1
-Current version:v0.3.0
+Current version:v0.3.1
 ```
 
 ### Useful commands
